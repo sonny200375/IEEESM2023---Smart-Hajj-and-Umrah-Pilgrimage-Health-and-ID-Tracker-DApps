@@ -1,1 +1,1 @@
-# IEEESM2023---Smart-Hajj-and-Umrah-Pilgrimage-Health-and-ID-Tracker-DApps
+# IEEESM2023-Smart Hajj & Umrah Pilgrimage Health and ID Trackered DApps
